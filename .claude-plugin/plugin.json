@@ -1,0 +1,7 @@
+{
+  "name": "life-coach",
+  "version": "0.3.0",
+  "author": { "name": "zwbao" },
+  "description": "A life coach that lives in Claude Code: notices your work rhythm, nudges at natural pauses, keeps small commitments, and coaches with Claude. Global evidence library plus a China pack. All data stays on your machine.",
+  "types": "./types/index.d.ts"
+}

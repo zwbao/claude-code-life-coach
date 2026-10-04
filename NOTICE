@@ -1,0 +1,15 @@
+Third-party content
+===================
+
+China pack — hooks/book.ts and hooks/book-1.ts … hooks/book-4.ts
+
+  《高性价比人生指南》 (HowToLiveBetter) by eternity4719
+  https://github.com/eternity4719/HowToLiveBetter
+  Version: commit 8dab966 (2026-09-19)
+  License: Creative Commons Attribution 4.0 International (CC BY 4.0)
+           https://creativecommons.org/licenses/by/4.0/
+
+  Changes: the Markdown chapters were parsed into TypeScript data (scripts/parse.mjs);
+  the text of each entry is unchanged. The value tier is computed with the book's own rule.
+
+Everything else in this repository is under the MIT License (see LICENSE).

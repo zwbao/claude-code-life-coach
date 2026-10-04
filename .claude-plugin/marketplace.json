@@ -1,0 +1,12 @@
+{
+  "name": "life-coach",
+  "owner": { "name": "zwbao" },
+  "description": "A life coach that lives in Claude Code · 住在 Claude Code 里的人生教练",
+  "plugins": [
+    {
+      "name": "life-coach",
+      "source": "./",
+      "description": "Notices your work rhythm, nudges at natural pauses, keeps small commitments, and coaches with Claude. All data stays on your machine."
+    }
+  ]
+}
